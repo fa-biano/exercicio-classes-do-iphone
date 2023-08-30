@@ -13,5 +13,7 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-
+## Para executar o código:
+- No terminal execute o comando na raiz: `cd bin && java Iphone` ou;
+- Abra o VS Code e clique no menu `Run/Run Without Debbugging` ou pressione `Ctrl + F5`;
 
